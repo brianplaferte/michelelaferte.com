@@ -1,18 +1,18 @@
-<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="test.michelelaferte.com" resolutions="1x" timestamp="1470949394705">
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="test.michelelaferte.com" resolutions="1x" timestamp="1470949868105">
   <folder name="css">
     <file name="site_global.css" crc="266526193"/>
     <file name="master_a-master.css" crc="3861665544" ref="emdr-for-peak-performance:resources:index:new-psychotherapy-clients:psychotherapy"/>
     <file name="nomq_preview_master_a-master.css" crc="447761718" ref="emdr-for-peak-performance:resources:index:new-psychotherapy-clients:psychotherapy"/>
-    <file name="emdr-for-peak-performance.css" crc="3883534341" ref="emdr-for-peak-performance"/>
-    <file name="nomq_emdr-for-peak-performance.css" crc="225425805" ref="emdr-for-peak-performance"/>
-    <file name="resources.css" crc="110913943" ref="resources"/>
+    <file name="emdr-for-peak-performance.css" crc="179049574" ref="emdr-for-peak-performance"/>
+    <file name="nomq_emdr-for-peak-performance.css" crc="375069817" ref="emdr-for-peak-performance"/>
+    <file name="resources.css" crc="4276232584" ref="resources"/>
     <file name="nomq_resources.css" crc="331849989" ref="resources"/>
-    <file name="index.css" crc="446161327" ref="index"/>
-    <file name="nomq_index.css" crc="4049626894" ref="index"/>
-    <file name="new-psychotherapy-clients.css" crc="518895230" ref="new-psychotherapy-clients"/>
+    <file name="index.css" crc="401023701" ref="index"/>
+    <file name="nomq_index.css" crc="4162346582" ref="index"/>
+    <file name="new-psychotherapy-clients.css" crc="4124381833" ref="new-psychotherapy-clients"/>
     <file name="nomq_new-psychotherapy-clients.css" crc="4061066707" ref="new-psychotherapy-clients"/>
-    <file name="psychotherapy.css" crc="229175801" ref="psychotherapy"/>
-    <file name="nomq_psychotherapy.css" crc="250404378" ref="psychotherapy"/>
+    <file name="psychotherapy.css" crc="216822766" ref="psychotherapy"/>
+    <file name="nomq_psychotherapy.css" crc="81974362" ref="psychotherapy"/>
   </folder>
   <folder name="assets">
     <file name="intake-packet-2015.pdf" crc="3813215674" seo="true" mt="1470939348000"/>
@@ -33,9 +33,9 @@
     <file name="fullsizerender1-e1449606308308.jpg" crc="51035957" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:emdr-for-peak-performance:psychotherapy:resources:new-psychotherapy-clients"/>
   </folder>
-  <file name="index.html" crc="3921414668" seo="true" mt="1470949334934" redirect="true"/>
-  <file name="emdr-for-peak-performance.html" crc="4178682025" seo="true" mt="1470949334934" redirect="true"/>
-  <file name="psychotherapy.html" crc="3959026952" seo="true" mt="1470949334934" redirect="true"/>
-  <file name="resources.html" crc="3985240633" seo="true" mt="1470949334934" redirect="true"/>
-  <file name="new-psychotherapy-clients.html" crc="3892145757" seo="true" mt="1470949334934" redirect="true"/>
+  <file name="index.html" crc="37024293" seo="true" mt="1470949810830" redirect="true"/>
+  <file name="emdr-for-peak-performance.html" crc="3984983381" seo="true" mt="1470949800998" redirect="true"/>
+  <file name="psychotherapy.html" crc="59366115" seo="true" mt="1470949783467" redirect="true"/>
+  <file name="resources.html" crc="3859069938" seo="true" mt="1470949849432" redirect="true"/>
+  <file name="new-psychotherapy-clients.html" crc="234282806" seo="true" mt="1470949832408" redirect="true"/>
 </manifest>
