@@ -1,43 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://test.michelelaferte.com/index.html</loc>
+    <loc>http://michelelaferte.com/index.html</loc>
+    <lastmod>2017-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://michelelaferte.com/images/fullsizerender1-e1449606308308.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://michelelaferte.com/psychotherapy.html</loc>
     <lastmod>2016-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test.michelelaferte.com/emdr-for-peak-performance.html</loc>
+    <loc>http://michelelaferte.com/emdr-for-peak-performance.html</loc>
+    <lastmod>2017-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://michelelaferte.com/resources.html</loc>
     <lastmod>2016-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test.michelelaferte.com/psychotherapy.html</loc>
+    <loc>http://michelelaferte.com/new-psychotherapy-clients.html</loc>
     <lastmod>2016-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://test.michelelaferte.com/resources.html</loc>
-    <lastmod>2016-08-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.michelelaferte.com/new-psychotherapy-clients.html</loc>
-    <lastmod>2016-08-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.michelelaferte.com/images/fullsizerender1-e1449606308308.jpg</loc>
-    <lastmod>2016-08-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://test.michelelaferte.com/assets/intake-packet-2015.pdf</loc>
+    <loc>http://michelelaferte.com/assets/intake-packet-2015.pdf</loc>
     <lastmod>2016-08-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
